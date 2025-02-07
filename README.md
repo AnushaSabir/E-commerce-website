@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Hackathon Project
 
 This project was created as part of a 24-hour hackathon challenge to design and implement a complete UI/UX for an e-commerce platform.
@@ -70,3 +71,7 @@ npm run dev
 
 - UI/UX Designer and Frontend Developer
 - Feel free to reach out at [Muhammad Rehan](mailto:muhammadrehan125768@gmail.com) for any questions or collaboration opportunities.
+=======
+# E-commerce-website
+The e-commerce platform is a fully responsive and user-friendly web interface designed to enhance the online shopping experience. The platform incorporates modern design principles, clean typography, and responsive layouts tailored for various devices.
+>>>>>>> 7cbb4e63f6bc007ce4eba64ba36e5e651fa32704
